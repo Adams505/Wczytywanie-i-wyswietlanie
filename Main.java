@@ -7,7 +7,7 @@ class Main {
       int liczba = skan.nextInt();
     System.out.println("Podaj słowo:");
       String slowo = scan.nextLine();
-    System.out.println("Liczba: "+ liczba);
-    System.out.println("Słowo: "+ slowo);
+    System.out.println("Liczba: "+"\r\n"+ liczba);
+    System.out.println("Słowo: "+"\r\n"+ slowo);
   }
 }
